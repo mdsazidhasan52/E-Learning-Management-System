@@ -3,21 +3,18 @@
 A simple web-based platform for managing online learning, developed as a
 **Database Management System (DBMS)** course project.
 
-------------------------------------------------------------------------
-
 ## 📌 Project Information
 
   Project Title   E-Learning Management System (ELMS)
-  --------------- -------------------------------------
   Course          Database Management System (DBMS)
   Institution     Northern University Bangladesh
 
 ## 👨‍💻 Team Members
 
   Name              Student ID
-  ----------------- -------------
-  Md. Sazid Hasan   42250303023
-  Mim Akter         42250303012
+  
+  1. Md. Sazid Hasan   42250303023
+  2. Mim Akter         42250303012
 
 # 1. Introduction
 
@@ -73,16 +70,10 @@ activities.
 
 # 5. System Design Overview
 
-  ----------------------------------------------------------------------------------
-  SL   Student Name  Student ID    Course        Assignment    Quiz Score   Progress
-  ---- ------------- ------------- ------------- ------------ ----------- ----------
-  1    Md. Sazid     42250303023   Database      Submitted            90%        85%
-       Hasan                       Management                             
-                                   System                                 
+SL Student Name---Student ID-------Course-------- Assignment-- Quiz Score-- Progress
 
-  2    Mim Akter     42250303012   Web           Pending              82%        78%
-                                   Development                            
-  ----------------------------------------------------------------------------------
+1, Md. Sazid--------42250303023-----Database ------Submitted------ 90%------- 85%      
+2. Mim Akter-------42250303012 ----- Web-----------Pending---------82%-------78%      
 
 # 6. Database Design
 
